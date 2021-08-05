@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.exe
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.deps.json
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.dll
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\bin\Debug\netcoreapp3.1\powerof2.pdb
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.dll
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.pdb
+C:\Users\SATYAM VAISHNAV\powerof2\powerof2\obj\Debug\netcoreapp3.1\powerof2.genruntimeconfig.cache

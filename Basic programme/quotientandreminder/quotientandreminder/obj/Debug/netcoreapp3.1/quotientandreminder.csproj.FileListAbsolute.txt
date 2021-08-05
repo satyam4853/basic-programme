@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.exe
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.deps.json
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.dll
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\bin\Debug\netcoreapp3.1\quotientandreminder.pdb
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.dll
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.pdb
+C:\Users\SATYAM VAISHNAV\quotientandreminder\quotientandreminder\obj\Debug\netcoreapp3.1\quotientandreminder.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.exe
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.deps.json
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.dll
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.pdb
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.dll
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.pdb
+C:\Users\SATYAM VAISHNAV\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.exe
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.deps.json
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.dll
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\bin\Debug\netcoreapp3.1\vowel_consonent.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.dll
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\vowel_consonent\vowel_consonent\obj\Debug\netcoreapp3.1\vowel_consonent.genruntimeconfig.cache

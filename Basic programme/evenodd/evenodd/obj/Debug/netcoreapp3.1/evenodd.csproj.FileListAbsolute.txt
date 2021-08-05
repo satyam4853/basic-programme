@@ -1,0 +1,12 @@
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.exe
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.deps.json
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.dll
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\bin\Debug\netcoreapp3.1\evenodd.pdb
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.dll
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.pdb
+C:\Users\SATYAM VAISHNAV\evenodd\evenodd\obj\Debug\netcoreapp3.1\evenodd.genruntimeconfig.cache
